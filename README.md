@@ -13,4 +13,4 @@ My data science competencies include:
 - R
 - Excel
 
-! This is a picture of me. Williams David_07_02_04_2015 5x7.jpg
+![This is a picture of me. ](Williams David_07_02_04_2015 5x7.jpg)
