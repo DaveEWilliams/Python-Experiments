@@ -11,7 +11,7 @@ Future plans for this repository include adding a sample data file and a [Jupyte
 
 ### About Me
 
-I am Dave Williams, and I am a student at Mississippi State University. **Data Science** is becoming one of my passions.
+My name is Dave Williams, and I am a student at Mississippi State University. **Data Science** is becoming one of my passions.
 
 My data science competencies include:
 - R
