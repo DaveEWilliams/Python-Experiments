@@ -13,4 +13,5 @@ My data science competencies include:
 - R
 - Excel
 
+This is a picture of me...
 ![This is a picture of me.](https://github.com/DaveEWilliams/Python-Experiments/blob/main/Dave%20Williams.jpeg)
