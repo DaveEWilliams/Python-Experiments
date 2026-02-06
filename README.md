@@ -1,4 +1,4 @@
-# Python Experiments
+# Mississippi State DSCI 8133 – Foundations of Applied Data Science (Coursework & Practice)
 This repository contains the initial code I created when learning to use GitHub as part of DSCI 8133 *Foundations of Applied Data Science* at Mississippi State University.
 
 ---
