@@ -16,7 +16,7 @@ My name is Dave Williams, and I am a student at Mississippi State University. **
 My data science competencies include:
 - R
 - Excel
-- Statistics and Probablity
+- Statistics and Probability
 
-This is a picture of me that was taken February 2026 as I began my first *Foundations of Applied Data Science* assignment.
+This is a picture of me that was taken in February 2026 as I began my first *Foundations of Applied Data Science* assignment.
 ![This is a picture of Dave Williams](https://github.com/DaveEWilliams/Python-Experiments/blob/main/Dave%20Williams.jpeg)
